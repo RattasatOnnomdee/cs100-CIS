@@ -1,1 +1,1 @@
-# CS100
+Hello Git!
